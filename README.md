@@ -16,7 +16,7 @@
 # Conclusion
 - Although both beginners and experts have the same test accuracy, the learning time has been reduced by 21% (if your original learning time is 30 days, you can save a week of learning time), but we used 2.5GB of RAM and 14% more CPU. Therefore, if you can afford the hardware, use Thread to save time.
 
-# Harware Specification
+# Hardware Specification
 - CPU : Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz
 - RAM : 8GB
 - GPU : NVIDIA GeForce GTX 1080 Ti
