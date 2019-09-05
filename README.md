@@ -1,6 +1,6 @@
 # Tensorflow_Training (Beginner vs Expert)
 
-# Motive
+# Motivation
 - This is because you want faster results with the same hardware specification, model architecture and dataset.
 
 # Experiments (Beginner vs Expert)
@@ -20,12 +20,6 @@
 - CPU : Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz
 - RAM : 8GB
 - GPU : NVIDIA GeForce GTX 1080 Ti
-
-# Requirements
-- Python 3.5.2
-- Tensorflow 1.13.1
-- OpenCV 4.0.0
-- Numpy 1.16.4
 
 # Reference
 - Idea : https://www.tensorflow.org/guide/performance/datasets
